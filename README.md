@@ -69,9 +69,7 @@ X |   |
 tic-tac-toe
 
 │
-
 ├── index.html
-
 ├── README.md
 
 ---
