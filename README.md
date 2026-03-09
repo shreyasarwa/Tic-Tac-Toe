@@ -20,7 +20,7 @@ This project allows two players to play against each other in the browser while 
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ---
 
