@@ -67,8 +67,8 @@ X |   |
 ## Project Structure
 
 tic-tac-toe
-
 │
+
 ├── index.html
 ├── README.md
 
