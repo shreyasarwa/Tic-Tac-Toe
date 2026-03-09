@@ -5,6 +5,17 @@ This project allows two players to play against each other in the browser while 
 
 ---
 
+## Play the Game Online
+
+You can play the game directly in your browser:
+
+**Live Demo:**  
+https://shreyasarwa.github.io/Tic-Tac-Toe/
+
+No installation required — just open the link and start playing!
+
+---
+
 ## Features
 
 - Two-player gameplay (Player 1 vs Player 2)
