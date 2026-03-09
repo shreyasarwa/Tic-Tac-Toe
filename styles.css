@@ -13,7 +13,7 @@ body{
     background: rgba(255,255,255,0.35);
     backdrop-filter: blur(8px);
     border-radius: 10px;
-    margin: 10px 350px;
+    margin: 10px 400px;
 }
 .p1 p{
     padding: 13px 15px;
@@ -29,7 +29,7 @@ body{
     background: rgba(255,255,255,0.35);
     backdrop-filter: blur(8px);
     border-radius: 10px;
-    margin: -70px 750px;
+    margin: -70px 800px;
 }
 .p2 p{
     padding: 13px 15px;
@@ -44,7 +44,7 @@ body{
     display:flex;
     flex-wrap:wrap;
     padding:10px;
-    margin: 150px 450px;
+    margin: 150px 550px;
 
     background: rgba(255,255,255,0.25);
     backdrop-filter: blur(12px);
