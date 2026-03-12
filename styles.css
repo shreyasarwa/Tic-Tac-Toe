@@ -13,7 +13,7 @@ body{
     background: rgba(255,255,255,0.35);
     backdrop-filter: blur(8px);
     border-radius: 10px;
-    margin: 10px 400px;
+    margin: 10px 450px;
 }
 .p1 p{
     padding: 13px 15px;
@@ -29,7 +29,7 @@ body{
     background: rgba(255,255,255,0.35);
     backdrop-filter: blur(8px);
     border-radius: 10px;
-    margin: -70px 800px;
+    margin: -70px 850px;
 }
 .p2 p{
     padding: 13px 15px;
